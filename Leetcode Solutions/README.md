@@ -153,12 +153,6 @@ This repository is a comprehensive collection of solutions to LeetCode problems.
 
 
 
-<li>Social Links
-Connect with me on<>li
+<li>Social Links<li>
+<li>Connect with me on<>li
 
-LinkedIn
-Instagram
-License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
-This README now includes links to your LinkedIn and Instagram profiles. You can paste this into your README.md file!
