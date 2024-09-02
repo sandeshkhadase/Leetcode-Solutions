@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This project contains solutions for problems from LeetCode, "Coding Interviews (2nd Edition)", "Coding Interviews (Special Edition)", "Cracking the Coding Interview.
+<p align="center">
+Welcome to the repository containing all my solutions to LeetCode coding problems. This collection includes a wide range of problems, from basic algorithms to advanced data structures and graph theory.
+</p>
 
 
 
