@@ -4,9 +4,7 @@
 
 This project contains solutions for problems from LeetCode, "Coding Interviews (2nd Edition)", "Coding Interviews (Special Edition)", "Cracking the Coding Interview.
 
-## Sites
 
-https://doocs.github.io/leetcode
 
 ## Solutions
 
