@@ -1,15 +1,10 @@
 
-src="https://img.shields.io/opencollective/backers/doocs-leetcode?color=42b883&style=flat-square&logo=open%20collective&logoColor=ffffff" /></a>
-  <a href="https://github.com/doocs/leetcode/stargazers"><img src="https://img.shields.io/github/stars/doocs/leetcode?color=42b883&logo=github&style=flat-square" alt="stars"></a>
-  <a href="https://github.com/doocs/leetcode/network/members"><img src="https://img.shields.io/github/forks/doocs/leetcode?color=42b883&logo=github&style=flat-square" alt="forks"></a>
-  <a href="https://opencollective.com/doocs-leetcode/sponsors/badge.svg" alt="Sponsors on Open Collective"><img src="https://img.shields.io/opencollective/sponsors/doocs-leetcode?color=42b883&style=flat-square&logo=open%20collective&logoColor=ffffff" /></a>
-</p>
 
 ## Introduction
 
 This project contains solutions for problems from LeetCode, "Coding Interviews (2nd Edition)", "Coding Interviews (Special Edition)", "Cracking the Coding Interview (6th Edition)", etc. All solutions are implemented in multiple programming languages, including but not limited to: Java, Python, C++, Go, TypeScript, Rust. We are working hard to update, welcome to Star 🌟 and follow [this project](https://github.com/doocs/leetcode) to get the latest updates.
 
-[中文文档](/README.md)
+
 
 ## Sites
 
