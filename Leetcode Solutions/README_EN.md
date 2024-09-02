@@ -2,10 +2,10 @@
 
 ## Introduction
 
-<p align="center">
-Welcome to the repository containing all my solutions to LeetCode coding problems. This collection includes a wide range of problems, from basic algorithms to advanced data structures and graph theory.
+<h2 id="introduction">Introduction</h2>
+<p>
+This repository is a comprehensive collection of solutions to LeetCode problems. Each problem is solved with efficiency in mind, and the solutions are provided in multiple programming languages (if applicable). All credit for these solutions goes to <strong>Sandesh Khadase</strong>.
 </p>
-
 
 
 ## Solutions
