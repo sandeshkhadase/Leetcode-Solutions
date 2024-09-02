@@ -1,6 +1,5 @@
 
 
-## Introduction
 
 <h2 id="introduction">Introduction</h2>
 <p>
