@@ -1,14 +1,4 @@
----
-comments: true
-difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/lcci/05.06.Convert%20Integer/README_EN.md
----
 
-<!-- problem:start -->
-
-# [05.06. Convert Integer](https://leetcode.cn/problems/convert-integer-lcci)
-
-[中文文档](/lcci/05.06.Convert%20Integer/README.md)
 
 ## Description
 
