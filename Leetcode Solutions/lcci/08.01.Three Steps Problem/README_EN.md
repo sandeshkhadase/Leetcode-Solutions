@@ -1,14 +1,3 @@
----
-comments: true
-difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/lcci/08.01.Three%20Steps%20Problem/README_EN.md
----
-
-<!-- problem:start -->
-
-# [08.01. Three Steps Problem](https://leetcode.cn/problems/three-steps-problem-lcci)
-
-[中文文档](/lcci/08.01.Three%20Steps%20Problem/README.md)
 
 ## Description
 
