@@ -1,14 +1,3 @@
----
-comments: true
-difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/lcci/05.07.Exchange/README_EN.md
----
-
-<!-- problem:start -->
-
-# [05.07. Exchange](https://leetcode.cn/problems/exchange-lcci)
-
-[中文文档](/lcci/05.07.Exchange/README.md)
 
 ## Description
 
