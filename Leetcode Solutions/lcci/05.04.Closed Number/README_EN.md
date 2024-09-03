@@ -1,14 +1,3 @@
----
-comments: true
-difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/lcci/05.04.Closed%20Number/README_EN.md
----
-
-<!-- problem:start -->
-
-# [05.04. Closed Number](https://leetcode.cn/problems/closed-number-lcci)
-
-[中文文档](/lcci/05.04.Closed%20Number/README.md)
 
 ## Description
 
